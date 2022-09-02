@@ -22,8 +22,14 @@ public class SinglyListNode{
 * Access to random element takes <span style="color:red">*O(N)*</span> time to **visit an element by index**
   * If we want to get the $i^{th}$ element, we have to traverse from the head node one by one
 * The benefit of the linked list?
-  * **insert** and **delete**
-  * 
+  * **insert** takes <span style="color:red">*O(1)*</span> time
+  * **delete**
+
+## Add Operation
+
+![Screen Shot 2022-09-02 at 12.18.54 PM](/Users/darintao/Library/Application Support/typora-user-images/Screen Shot 2022-09-02 at 12.18.54 PM.png)
+
+
 
 
 
