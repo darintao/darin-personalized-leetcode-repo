@@ -27,7 +27,7 @@ public class SinglyListNode{
 
 ## Add Operation
 
-![Screen Shot 2022-09-02 at 12.18.54 PM](/Users/darintao/Library/Application Support/typora-user-images/Screen Shot 2022-09-02 at 12.18.54 PM.png)
+
 
 
 
